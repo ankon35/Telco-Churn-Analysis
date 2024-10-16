@@ -44,11 +44,4 @@ This project focuses on analyzing customer churn patterns using a dataset of **7
 
 ---
 
-## Project Structure  
-```plaintext
-|-- data/                      # Dataset used for the analysis  
-|-- notebooks/                 # Jupyter notebooks with code and EDA  
-|-- images/                    # Visualizations and plots  
-|-- README.md                  # Project README  
-|-- requirements.txt           # Python dependencies  
-|-- main.py                    # Main analysis code  
+
