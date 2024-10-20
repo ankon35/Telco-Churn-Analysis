@@ -4,6 +4,8 @@
 ## Overview  
 This project focuses on analyzing customer churn patterns using a dataset of **7,043 customer records**. The analysis helps identify key factors influencing churn, providing insights to improve customer retention strategies. Various techniques in **Python (Pandas, Matplotlib, Seaborn)** were used to conduct Exploratory Data Analysis (EDA) and visualize churn-related trends.
 
+📄 **[Explore the Full Jupyter Notebook](https://github.com/ankon35/Telco-Churn-Analysis/blob/main/Python_Data_Analysis.ipynb)**
+
 ---
 
 ## Dataset  
